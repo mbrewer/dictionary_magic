@@ -9,7 +9,8 @@ combien_de_departements = {
                      'Nouvelle-Aquitaine': 12,
                      'Grand Est': 10,
                      'Occitanie': 13,
-                     'Bretagne': 4
+                     'Bretagne': 4,
+                     'Nord-Pas-de-Calais': 5
 }
 
 villes_et_regions = {
@@ -23,4 +24,6 @@ villes_et_regions = {
                    'Strasbourg': 'Grand Est',
                    'Perpignan': 'Occitanie',
                    'Saint-Malo': 'Bretagne',
+                   'Lille': 'Nord-Pas-de-Calais'
 }
+
