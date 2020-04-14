@@ -1,0 +1,6 @@
+README.md
+setup.py
+dictionaries_maloret.egg-info/PKG-INFO
+dictionaries_maloret.egg-info/SOURCES.txt
+dictionaries_maloret.egg-info/dependency_links.txt
+dictionaries_maloret.egg-info/top_level.txt
